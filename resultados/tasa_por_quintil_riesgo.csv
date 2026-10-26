@@ -1,0 +1,6 @@
+grupo_riesgo,n,tasa_BPN,BPN_capturados
+Q1 (bajo),240,0.033,8
+Q2,240,0.038,9
+Q3,240,0.062,15
+Q4,240,0.079,19
+Q5 (alto),240,0.262,63

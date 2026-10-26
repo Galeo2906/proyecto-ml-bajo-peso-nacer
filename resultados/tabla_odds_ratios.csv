@@ -1,0 +1,13 @@
+variable,OR paper (AOR),OR generador,OR estimado,IC95% inf,IC95% sup,p,¿IC contiene OR generador?
+Sin consejería nutricional,2.4,2.4,2.48,1.98,3.1,0.0,True
+MUAC < 23 cm,3.1,3.1,3.33,2.68,4.12,0.0,True
+Estrés alto (PSS ≥ 27),2.8,2.8,2.55,1.97,3.32,0.0,True
+Estrés moderado,0.86,1.0,0.81,0.63,1.03,0.09,True
+< 4 controles prenatales,2.8,2.8,2.67,2.12,3.35,0.0,True
+Anemia (Hb < 11),2.4,1.5,1.13,0.78,1.63,0.53,True
+Hierro < 100 tabletas,1.4,1.3,1.43,1.16,1.76,0.0,True
+HTA del embarazo,1.04,1.2,1.21,0.79,1.83,0.38,True
+Ganancia de peso < 12 kg,,1.3,1.33,1.07,1.64,0.01,True
+Edad < 20 o ≥ 35,,1.3,1.03,0.82,1.3,0.78,True
+Zona rural,,1.0,1.45,1.15,1.82,0.0,False
+Régimen subsidiado,,1.0,1.07,0.86,1.33,0.57,True

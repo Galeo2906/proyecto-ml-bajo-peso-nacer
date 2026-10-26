@@ -1,0 +1,22 @@
+{
+  "semilla": 42,
+  "n": 6000,
+  "prevalencia_bpn": 0.09533333333333334,
+  "n_bpn": 572,
+  "intercepto": -4.00008155508203,
+  "or_generadores": {
+    "sin_consejeria": 2.4,
+    "muac_lt23": 3.1,
+    "estres_alto": 2.8,
+    "anc_lt4": 2.8,
+    "anemia": 1.5,
+    "hierro_lt100": 1.3,
+    "hta": 1.2,
+    "gwg_lt12": 1.3,
+    "edad_extrema": 1.3
+  },
+  "beta_pss": [
+    1.379497543447244,
+    2.140298046480137
+  ]
+}

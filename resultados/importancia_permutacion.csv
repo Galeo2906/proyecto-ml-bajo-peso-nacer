@@ -1,0 +1,16 @@
+variable,caida_pr_auc,sd
+muac_cm,0.0724,0.0142
+n_controles_prenatales,0.0686,0.0192
+consejeria_nutricional,0.0549,0.0198
+puntaje_pss,0.0458,0.0147
+ganancia_peso_kg,0.0176,0.0075
+zona_rural,0.0123,0.0075
+regimen_subsidiado,0.0038,0.0059
+edad,0.0036,0.0036
+hemoglobina_gdl,0.002,0.0014
+otro_problema_salud,0.0019,0.0021
+embarazo_planeado,0.001,0.0031
+nivel_educativo,0.0004,0.0021
+hta_embarazo,0.0002,0.0013
+comidas_adicionales,-0.0012,0.0019
+n_tabletas_hierro,-0.0021,0.008

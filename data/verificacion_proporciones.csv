@@ -1,0 +1,21 @@
+variable,simulado,referencia,fuente
+sin consejería nutricional,0.399,0.399,Artículo (controles)
+MUAC < 23 cm,0.249,0.263,Artículo (controles)
+estrés alto (PSS >= 27),0.151,0.148,Artículo (controles)
+estrés moderado (14-26),0.396,0.399,Artículo (controles)
+< 4 controles prenatales,0.184,0.184,DANE EEVV 2021
+anemia (Hb < 11),0.062,0.07,Artículo (controles)
+hierro < 100 tabletas,0.478,0.455,Artículo (controles)
+HTA del embarazo,0.058,0.058,Artículo (controles)
+ganancia de peso < 12 kg,0.39,0.395,Artículo (controles)
+comidas adicionales,0.564,0.564,Artículo (controles)
+embarazo planeado,0.765,0.765,Artículo (controles)
+edad < 20 años,0.183,0.183,DANE EEVV 2021
+edad >= 35 años,0.115,0.115,DANE EEVV 2021
+educación: ninguna,0.011,0.011,DANE EEVV 2021
+educación: primaria,0.126,0.126,DANE EEVV 2021
+educación: secundaria o media,0.615,0.615,DANE EEVV 2021
+educación: superior,0.248,0.248,DANE EEVV 2021
+zona rural,0.229,0.229,Censo 2018
+régimen subsidiado,0.525,0.525,Boletín 17 Externado
+bajo peso al nacer,0.095,0.097,DANE EEVV 2021
