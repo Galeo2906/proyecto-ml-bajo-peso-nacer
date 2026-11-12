@@ -1,0 +1,3 @@
+versión,PR-AUC media,PR-AUC DE,ROC-AUC media
+con controles (modelo final),0.2733,0.0121,0.6746
+sin controles prenatales,0.2484,0.0134,0.6272

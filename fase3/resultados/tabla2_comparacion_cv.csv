@@ -1,0 +1,10 @@
+modelo,PR_AUC_media,PR_AUC_de,ROC_AUC_media,ROC_AUC_de,Brier_media,hiperparámetro más elegido
+Línea base (prevalencia),0.1042,0.0001,0.5,0.0,0.0933,-
+KNN,0.2025,0.0121,0.6442,0.009,0.0913,{'modelo__n_neighbors': 401}
+Naive Bayes (Bernoulli),0.2643,0.014,0.6638,0.0088,0.0871,{'modelo__alpha': 0.1}
+LDA,0.2733,0.0122,0.6747,0.0085,0.0872,-
+QDA,0.2427,0.0125,0.6542,0.0111,0.1131,{'modelo__reg_param': 0.5}
+Logística sin penalizar,0.2733,0.0121,0.6746,0.0092,0.0851,-
+Logística L2 (Ridge),0.2733,0.0121,0.6746,0.0092,0.0851,{'modelo__C': 0.1}
+Logística L1 (Lasso),0.2736,0.0123,0.6747,0.009,0.0851,{'modelo__C': 0.1}
+"Elastic Net (α=0,5)",0.2733,0.0128,0.6746,0.0092,0.0851,{'modelo__C': 0.1}

@@ -1,0 +1,12 @@
+métrica,valor,IC95 inf,IC95 sup
+PR-AUC,0.2664,0.2404,0.2924
+PR-AUC del azar (prevalencia),0.1042,,
+ROC-AUC,0.663,0.6454,0.6809
+Brier,0.0858,,
+Brier de la línea base,0.0933,,
+"Umbral (F2, fuera de muestra)",0.0817,,
+Recall (sensibilidad),0.7016,,
+Precisión (VPP),0.1415,,
+Especificidad,0.5048,,
+F2,0.3915,,
+% de nacimientos marcados en riesgo,0.5167,,
