@@ -11,6 +11,7 @@ Artículo base: Feyisa BR, Mulatu Y, Fentahun F, Biru B, Atlantis E (2023). *Nut
 |---|---|
 | `fase3_final.ipynb` | Cuaderno final (Fase 3), ejecutado de principio a fin. |
 | `fase3_final.py` | El mismo cuaderno en formato script (percent). |
+| `reproducir_en_vivo.ipynb` | Reproducción rápida (≈ 1 min) del modelo final y sus cifras en prueba, sin la comparación de los 9 modelos. |
 | `00_preparar_muestra.py` | Genera la muestra de 50.000 nacimientos desde el archivo completo del DANE. |
 | `construir_notebook.py` | Convierte `fase3_final.py` en el `.ipynb`. |
 | `data/nacimientos_dane_2022_muestra.csv` | Muestra aleatoria (semilla 42) con solo las 12 columnas usadas. |
@@ -29,7 +30,7 @@ python 00_preparar_muestra.py ruta/a/nac2022.csv   # opcional: la muestra ya est
 jupyter nbconvert --to notebook --execute fase3_final.ipynb
 ```
 
-En Colab: subir `fase3_final.ipynb` y `nacimientos_dane_2022_muestra.csv` (en `data/` o junto al cuaderno) y ejecutar todo. Tarda unos 20–30 minutos (validación cruzada anidada de 9 modelos). Semilla 42 en todo.
+En Colab: subir `fase3_final.ipynb` y `nacimientos_dane_2022_muestra.csv` (en `data/` o junto al cuaderno) y ejecutar todo. Tarda entre 15 y 40 minutos (validación cruzada anidada de 9 modelos). Para comprobar solo el modelo final y sus cifras en prueba, `reproducir_en_vivo.ipynb` corre en cerca de un minuto. Semilla 42 en todo.
 
 ## Modelos (solo los vistos en clase)
 
